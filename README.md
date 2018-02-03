@@ -1,11 +1,3 @@
-# GetCookies
-
-Chrome下获取Cookies插件,突破HTTP ONLY限制  
-
-Chrome商店安装Link:  
-
-https://chrome.google.com/webstore/detail/cookies-get-assistant/ljjpkibacifkfolehlgaolibbnlapkme
-
 # 使用文档
 
 ## 绑定按钮点击事件
@@ -68,9 +60,3 @@ JS模拟Click事件即可触发,之后读取data-cookie即可.
 data-cookie={"BDUSS":"ABC","BAIDUID":"ASCED"}
 
 返回一个对象.
-
-## 备注
-
-现阶段为了安全起见,只在以下网站加载本插件.
-
-* https://qiandao.today/
